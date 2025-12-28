@@ -7,6 +7,8 @@ This repository serves as a centralized documentation and codebase for embedded 
 
 The primary objective of this repository is to demonstrate the versatility of the **AVR and ARM-based microcontrollers** through practical implementation and clean, documented code.
 
+<img width="262" height="192" alt="image" src="https://github.com/user-attachments/assets/4f84e24a-b6fe-4ca0-bd5c-449ca9d699de" />
+
 ---
 
 ## 🔧 Core Technologies
