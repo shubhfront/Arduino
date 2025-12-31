@@ -1,0 +1,4 @@
+﻿Name,Quantity,Component
+"Digit1",1,"Anode 7 Segment Display"
+"U2",1," Arduino Uno R3"
+"R1",1,"220 Ω Resistor"
